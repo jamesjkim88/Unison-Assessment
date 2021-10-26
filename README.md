@@ -1,8 +1,7 @@
 # Unison Assessment
 
 ### Tech stack used:
-  - Vanilla JavaScript
-  - HTML 5
+  - Three basic Front End stack, Vanilla JS, HTML, and CSS
 
 ### Approach
   - Used MVC design pattern to build the application.
