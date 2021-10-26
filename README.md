@@ -4,7 +4,7 @@
   - Three basic Front End stack, Vanilla JS, HTML, and CSS
 
 ### Approach
-  - Used MVC design pattern to build the application.
+  - Used MVC design pattern to structure the application.
   - Firstly, wanted to make sure I get the json file and able to have access to the object once json file is submitted.
   - After having access, it was obvious to iterate through the object but required some brainstorming sessions on handling nested children elements.
   - Applied recursion function for a solution to handle nested children.
