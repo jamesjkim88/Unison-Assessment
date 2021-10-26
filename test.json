@@ -1,0 +1,24 @@
+{
+  "element": "div",
+  "children": [
+    { "element": "h1", "children": "Hello World!" },
+    { "element": "p", "children": "I love pizza!" },
+    { "element": "ul", "children": [
+      { "element": "li", "children": "list item 1" },
+      { "element": "li", "children": "list item 2" },
+      { "element": "li", "children": "list item 3" },
+      { "element": "li", "children": "list item 4" },
+      { "element": "li", "children": "list item 5" }
+    ] },
+    {
+      "element": "div",
+      "children": [
+        {
+          "element": "a",
+          "children": "Order pizza!",
+          "props": { "href": "https://unison.com" }
+        }
+      ]
+    }
+  ]
+}
